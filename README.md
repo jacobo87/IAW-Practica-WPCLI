@@ -6,3 +6,5 @@
 ## Administración de Wordpress con la utilidad WP-CLI 
 En esta práctica vamos a realizar la administración de un sitio WordPress desde el terminal con la utilidad WP-CLI.
 
+## REFERENCIAS
+- [José Juan Sanchez IAW - Administración de Wordpress con la utilidad WP-CLI](https://josejuansanchez.org/iaw/practica-wp-cli/index.html)
