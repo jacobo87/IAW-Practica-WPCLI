@@ -12,3 +12,4 @@ En esta práctica vamos a realizar la administración de un sitio WordPress desd
 
 ## REFERENCIAS
 - [José Juan Sanchez IAW - Administración de Wordpress con la utilidad WP-CLI](https://josejuansanchez.org/iaw/practica-wp-cli/index.html)
+- [Jacobo Azmani Alumno-IAW, script](https://github.com/jacobo87/IAW-Practica-WPCLI)
