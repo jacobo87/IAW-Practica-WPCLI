@@ -32,5 +32,5 @@ gem install wpscan
 wpscan --update
 
 # Enumeramos los usuarios
-wpscan --url http://54.173.16.66 --enumerate u
+# wpscan --url http://54.173.16.66 --enumerate u
 
